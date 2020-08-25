@@ -1,7 +1,7 @@
 ## Hi, I'm [Saif](https://saifullahsajid.github.io/portfolio/) 👋🏻 👨🏻‍💻
 
 
-[Twitter](https://twitter.com/saifcodes) | [Instagram](https://instagram.com/saifcodes) | [AngelList](https://angel.co/u/saifullahsajid)
+ [LinkedIn](https://www.linkedin.com/in/saifsajid99/) | [Twitter](https://twitter.com/saifcodes) | [Instagram](https://instagram.com/saifcodes) | [AngelList](https://angel.co/u/saifullahsajid)
 
 
 Hi, I'm Saif Ullah Sajid, a passionate self-taught iOS Engineer from Pakistan.
