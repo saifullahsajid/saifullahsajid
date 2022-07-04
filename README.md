@@ -24,3 +24,9 @@ Hi, I'm Saif Ullah Sajid, a passionate self-taught iOS Engineer from Pakistan.
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png"></code> 
 
 <a href="https://www.producthunt.com/posts/swifthub?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-swifthub" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=275625&theme=dark" alt="SwiftHub - Learn, build & share about all things Swift | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
+
+<p align="center">
+	<img width="625em" src="./github-metrics.svg" />
+</p>
+<br>
