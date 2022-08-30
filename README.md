@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋🏼, I'm Saif</h1>  
-<h3 align="center">A passionate iOS Engineer from Pakistan</h3>  
+<h1 align="left">Hi 👋🏼, I'm Saif</h1>  
+<h3 align="left">A passionate iOS Engineer from Pakistan</h3>  
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifullahsajid" alt="saifullahsajid" /></a> </p>  
   
