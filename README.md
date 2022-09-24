@@ -6,7 +6,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifullahsajid&label=Profile%20views&color=0e75b6&style=flat&color=brightgreen" alt="saifullahsajid" /> </p>  
   
-- 🔭 I’m currently working o an **Secure Chat Application**  
+- 🔭 I’m currently working on a **Secure Chat Application**  
   
 - 🌱 I’m currently learning **The Composable Architecture**  
 
