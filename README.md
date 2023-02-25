@@ -18,8 +18,6 @@
   
 - 📫 How to reach me **saifbinsajid7@gmail.com**  
   
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MDfz5t_NxwIWgaQoTavDHrJ53VKEUjOT/view](https://drive.google.com/file/d/1MDfz5t_NxwIWgaQoTavDHrJ53VKEUjOT/view)  
-  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
