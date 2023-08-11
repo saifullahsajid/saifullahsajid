@@ -58,8 +58,8 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifullahsajid&show_icons=true&locale=en" alt="saifullahsajid" /></p>   -->
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifullahsajid&" alt="saifullahsajid" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifullahsajid&" alt="saifullahsajid" /></p>-->
 
 <a href="https://www.producthunt.com/posts/swifthub?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-swifthub" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=275625&theme=dark" alt="SwiftHub - Learn, build & share about all things Swift | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
-<p><a href="https://ko-fi.com/saifsajid"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="saifsajid" /></a></p><br><br>  
+<!--
+<p><a href="https://ko-fi.com/saifsajid"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="saifsajid" /></a></p><br><br>  -->
