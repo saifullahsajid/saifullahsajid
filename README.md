@@ -1,9 +1,7 @@
 
 <h1 align="left">Hi 👋🏼, I'm Saif</h1>  
-<h3 align="left">A passionate iOS Engineer from Pakistan</h3>  
-  
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifullahsajid" alt="saifullahsajid" /></a> </p>   -->
-  
+<h3 align="left">A passionate iOS Engineer</h3>  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifullahsajid&label=Profile%20views&color=0e75b6&style=flat&color=brightgreen" alt="saifullahsajid" /> </p>  
   
 - 🔭 I’m currently working on a **Penetration Testing**  
@@ -15,9 +13,7 @@
 - 👨‍💻 All of my projects are available at [https://saifullahsajid.com](https://saifullahsajid.com)  
   
 - 💬 Ask me about anything [here](https://github.com/saifullahsajid/saifullahsajid/issues) 
-  
-- 📫 How to reach me **saifbinsajid7@gmail.com**  
-  
+    
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
@@ -39,15 +35,8 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> 
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
-<!--   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a>  -->
-<!--   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a>  -->
-<!--   <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="30" height="30"/> </a>  -->
-<!--   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>  -->
-<!--   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30" height="30"/> </a>  -->
-<!--   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a>  -->
-<!--   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a>  -->
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
-<!--   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>  -->
+
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/> </a> 
   <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="30" height="30"/> </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> </a> 
@@ -56,10 +45,4 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/> </a> 
 </p>  
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifullahsajid&show_icons=true&locale=en" alt="saifullahsajid" /></p>   -->
-  
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifullahsajid&" alt="saifullahsajid" /></p>-->
-
 <a href="https://www.producthunt.com/posts/swifthub?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-swifthub" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=275625&theme=dark" alt="SwiftHub - Learn, build & share about all things Swift | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-<!--
-<p><a href="https://ko-fi.com/saifsajid"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="saifsajid" /></a></p><br><br>  -->
