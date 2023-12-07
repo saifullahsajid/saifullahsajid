@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifullahsajid&label=Profile%20views&color=0e75b6&style=flat&color=brightgreen" alt="saifullahsajid" /> </p>  
   
-- 🔭 I’m currently working on a **Penetration Testing**  
-  
-- 🌱 I’m currently learning **The Composable Architecture**  
+- 🔭 I’m currently working on **Penetration Testing**   
 
 - 💼  I’m always looking forward to **Joint Ventures**
   
