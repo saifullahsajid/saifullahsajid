@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋🏼, I'm Saif</h1>  
 <h3 align="left">A passionate iOS Engineer</h3>  
   
-- 🔭 I’m currently working on **Penetration Testing**   
+- 🔭 I’m currently working on **LLMs**   
 
 - 💼  I’m always looking forward to **Joint Ventures**
   
