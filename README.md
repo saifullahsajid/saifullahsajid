@@ -8,9 +8,6 @@
   
 - 👨‍💻 All of my projects are available at [https://saifullahsajid.com](https://saifullahsajid.com)  
   
-- 💬 Ask me about anything [here](https://github.com/saifullahsajid/saifullahsajid/issues) 
-    
-  
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
 <a href="https://dev.to/saifcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saifcodes" height="30" width="30" /></a>  
