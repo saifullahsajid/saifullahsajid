@@ -2,9 +2,9 @@
 <h1 align="left">Hi 👋🏼, I'm Saif</h1>  
 <h3 align="left">A passionate iOS Engineer</h3>  
   
-- 🔭 I’m currently working on **LLMs**.
-- 💼 I’m always looking forward to **Joint Ventures**.
-- 👨‍💻 All of my projects are available at [https://saifullahsajid.com](https://saifullahsajid.com).
+- 🔭 I’m currently working on **LLMs**..
+- 💼 I’m always looking forward to **Joint Ventures**..
+- 👨‍💻 All of my projects are available at [https://saifullahsajid.com](https://saifullahsajid.com)..
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
