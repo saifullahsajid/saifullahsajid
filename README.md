@@ -23,20 +23,6 @@ I'm a passionate iOS developer dedicated to creating intuitive and visually stun
 
 ---
 
-<h3 align="left">iOS Toolbox:</h3>  
-<p align="left"> 
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="30" height="30"/> </a>  
-  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" alt="xcode" width="30" height="30"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> 
-  <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="30" height="30"/> </a> 
-  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="30" height="30"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> </a> 
-  <a href="https://developer.apple.com/documentation/combine" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/combine/combine-96x96_2x.png" alt="combine" width="30" height="30"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> 
-</p>  
-
----
-
 <h3 align="left">My Indie Apps</h3>  
 <ul>
   <li>
