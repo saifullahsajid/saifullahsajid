@@ -38,11 +38,20 @@ I'm a passionate iOS developer dedicated to creating intuitive and visually stun
 ---
 
 <h3 align="left">My Indie Apps</h3>  
-- **[SwiftHub](https://apple.co/3UFmiJN):** Learn, build, and share all things Swift!  
-- **[Scanner](https://apple.co/4eTfQGe):** Scan your documents without any clutter, and share them anywhere!  
-- **[Expenses](https://apple.co/3BKzEOf):** Manage your finances in the easiest way possible!  
-- **[SocialCanvas](https://apple.co/4fdoqQI):** Create attractive social media posts effortlessly!  
-
+<ul>
+  <li>
+    <a href="https://apple.co/3UFmiJN" target="_blank">SwiftHub</a>: Learn, build, and share all things Swift!
+  </li>
+  <li>
+    <a href="https://apple.co/4eTfQGe" target="_blank">Scanner</a>: Scan your documents without any clutter, and share them anywhere!
+  </li>
+  <li>
+    <a href="https://apple.co/3BKzEOf" target="_blank">Expenses</a>: Manage your finances in the easiest way possible!
+  </li>
+  <li>
+    <a href="https://apple.co/4fdoqQI" target="_blank">SocialCanvas</a>: Create attractive social media posts effortlessly!
+  </li>
+</ul>
   
 ---
 
