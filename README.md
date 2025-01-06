@@ -38,7 +38,3 @@ I'm a passionate iOS developer dedicated to creating intuitive and visually stun
     <a href="https://apple.co/4fdoqQI" target="_blank">SocialCanvas</a>: Create attractive social media posts effortlessly!
   </li>
 </ul>
-  
----
-
-Thank you for visiting my profile! Let's build something great together. 🚀  
