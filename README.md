@@ -38,6 +38,6 @@ I'm a passionate iOS developer dedicated to creating intuitive and visually stun
     <a href="https://apple.co/4fdoqQI" target="_blank">SocialCanvas</a>: Create attractive social media posts effortlessly!..
   </li>
   <li>
-    <a href="testflight.apple.com/join/htqhdSyG" target="_blank">GitPeek</a>: Take a quick peek at your GitHub profile, track starred repos, and organize them for ideas & research—all in one place!..
+    <a href="testflight.apple.com/join/htqhdSyG" target="_blank">GitPeek</a>: Take a quick peek at your GitHub profile, track starred repos, and organize them for ideas & research—all in one place!.
   </li>
 </ul>
